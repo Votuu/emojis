@@ -1,0 +1,9 @@
+main: de.votuu.emojis.Emojis
+name: emojis
+version: 1.0-SNAPSHOT
+
+author: Votuu
+
+commands:
+
+  emojis:
